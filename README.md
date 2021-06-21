@@ -2,5 +2,5 @@
 
 ## Table of Contents
 
-### reverse_slice.py
 ### swap.py
+### reverse_slice.py
